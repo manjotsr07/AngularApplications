@@ -1,0 +1,7 @@
+{
+    "banks":[
+        {"name": "Royal Bank Of Canada", "city": "Toronto", "province": "Ontario", "image": "images/image_Royal_Bank_Of_Canada.jpg"},
+        {"name": "HSBC Bank Canada", "city": "Vancouver", "province": "British Columbia", "image": "images/image_HSBC_Bank_Canada.jpg"},
+        {"name": "Bank Of Montreal", "city": "Montreal", "province": "Quebec", "image": "images/image_Bank_Of_Montreal.jpg"}
+    ]
+}
